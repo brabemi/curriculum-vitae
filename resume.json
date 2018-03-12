@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Miroslav Brabenec",
+    "label": "Programmer, System admin, Network admin",
+    "picture": "",
+    "email": "brabemi@gmail.com",
+    "phone": "+420 721 021 051",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Velehradská 1911/4",
+      "postalCode": "130 00",
+      "city": "Praha",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Codewars",
+        "username": "brabemi",
+        "url": "https://www.codewars.com/users/brabemi"
+      },
+      {
+        "network": "Github",
+        "username": "brabemi",
+        "url": "https://github.com/brabemi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "National Library of Technology",
+      "position": "Programmer, system and network admin",
+      "website": "https://techlib.cz",
+      "startDate": "2014-09-01",
+      "endDate": "2018-03-12",
+      "summary": "Management and maintenance of linux servers and corporate network, writing management tools",
+      "highlights": []
+    },
+    {
+      "company": "Freelancer",
+      "position": "Systemadmin",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "2018-03-12",
+      "summary": "Management and maintenance of linux servers",
+      "highlights": []
+    },
+    {
+      "company": "Master Internet",
+      "position": "Help desk",
+      "website": "https://master.cz",
+      "startDate": "2013-08-01",
+      "endDate": "2014-08-31",
+      "summary": "Tier 1 support in data center",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CESNET",
+      "position": "Programmer",
+      "website": "https://cesnet.cz",
+      "startDate": "2013-01-01",
+      "endDate": "2013-07-31",
+      "summary": "Netopeer project, writing system libraries for libnetconf",
+      "highlights": []
+    },
+    {
+      "organization": "J. Heyrovsky Institute of Physical Chemistry of the CAS",
+      "position": "Intern",
+      "website": "http://www.jh-inst.cas.cz",
+      "startDate": "2010-12-01",
+      "endDate": "2012-05-31",
+      "summary": "Intern in the Department of Synthesis and Catalysis, working on the graduation thesis, topic mesoporous based material for carbon dioxide adsorbtion",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "CTU - Faculty of Information Technology",
+      "area": "Computer Systems and Networks",
+      "studyType": "Master - with honors",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "CTU - Faculty of Information Technology",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2015-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "SPŠST Panská",
+      "area": "Technical Lyceum",
+      "studyType": "Graduation",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "RHCE, RHCSA III",
+      "date": "2016-05-09",
+      "awarder": "",
+      "summary": "Red Hat Enterprise Linux 7"
+    },
+    {
+      "title": "CCNA exploration",
+      "date": "2014-04-01",
+      "awarder": "",
+      "summary": "Network Fundamentals, Routing Protocols and Concepts, LAN Switching and Wireless, Accessing the WAN"
+    },
+    {
+      "title": "Autodesk",
+      "date": "2012-06-30",
+      "awarder": "",
+      "summary": "Inventor Professional 2011, AutoCAD 2011 3D"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": [
+        "Systemd",
+        "Selinux",
+        "Databases",
+        "GIT",
+        "FHS"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": [
+        "Cisco",
+        "HP/3Com",
+        "DNS",
+        "DHCP",
+        "Firewall"
+      ]
+    },
+    {
+      "name": "Programing",
+      "level": "",
+      "keywords": [
+        "OOP",
+        "Parallel programming",
+        "Python",
+        "C/C++",
+        "Ruby",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Zabbix",
+        "PostgreSQL",
+        "Apache/Nginx",
+        "Docker",
+        "Redmine"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Czech",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B2 - TOEIC"
+    },
+    {
+      "language": "Germa",
+      "fluency": "A1 - four years in high school"
+    }
+  ],
+  "interests": [
+    {
+      "name": " ",
+      "keywords": [
+        "Photography",
+        "Cycling",
+        "Scifi & fanstay",
+        "Archery"
+      ]
+    }
+  ],
+  "references": []
+}
