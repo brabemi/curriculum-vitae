@@ -81,7 +81,7 @@ blockquote {
 
 .box{
   padding-bottom: 10px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 .box h2{
   color: #227c74;
@@ -92,7 +92,7 @@ blockquote {
 
 #awards,
 #education{
-  margin-top: 20px;
+  margin-top: 10px;
   position: relative;
   padding: 1em 0;
   list-style: none;
@@ -135,7 +135,7 @@ blockquote {
   width: 85%;
   display: inline-block;
   background: #eee;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   position: relative;
   padding: 10px;
   border-bottom: 1px solid #ccc;
@@ -169,13 +169,13 @@ blockquote {
 }
 
 .job{
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 .job .details {
   margin-left: 3%;
   width: 95%;
   padding: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   background: #eee;
   border-bottom: 1px solid #ccc;
   border-right: 1px solid #ccc;
@@ -269,13 +269,17 @@ blockquote {
   padding: 1px 8px;
   font-size: .75em;
   position: absolute;
-  margin: 1px 10px;
+  margin: 1px 5px;
 }
 
 #language-skills .skill{
-  margin: 10px 0;
+  margin: 5px 0;
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
+}
+
+.col-skills {
+  margin-left: 0;
 }
 
 @media (min-width: 500px) {
@@ -377,6 +381,7 @@ a[href]:after {
   border-width: 4px;
   pointer-events: none;
  }
+
 
     </style>
   </head>
@@ -594,7 +599,7 @@ a[href]:after {
                   Linux
 
               </div>
-              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              <div class="col-sm-offset-1 col-sm-12 clearfix col-skills">
                 <span class= "skill badge">Systemd</span>
                 <span class= "skill badge">Selinux</span>
                 <span class= "skill badge">Databases</span>
@@ -607,7 +612,7 @@ a[href]:after {
                   Networking
 
               </div>
-              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              <div class="col-sm-offset-1 col-sm-12 clearfix col-skills">
                 <span class= "skill badge">Cisco</span>
                 <span class= "skill badge">HP/3Com</span>
                 <span class= "skill badge">DNS</span>
@@ -620,7 +625,7 @@ a[href]:after {
                   Programing
 
               </div>
-              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              <div class="col-sm-offset-1 col-sm-12 clearfix col-skills">
                 <span class= "skill badge">OOP</span>
                 <span class= "skill badge">Parallel programming</span>
                 <span class= "skill badge">Python</span>
@@ -634,7 +639,7 @@ a[href]:after {
                   Tools
 
               </div>
-              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              <div class="col-sm-offset-1 col-sm-12 clearfix col-skills">
                 <span class= "skill badge">Zabbix</span>
                 <span class= "skill badge">PostgreSQL</span>
                 <span class= "skill badge">Apache/Nginx</span>
@@ -656,13 +661,10 @@ a[href]:after {
           <div class="box">
             <h2><i class="fa fa-heart ico"></i> Interests</h2>
             <div class="interests clearfix">
-              <div class="item-interests">
-
-              </div>
-              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              <div class="col-sm-offset-1 col-sm-12 clearfix col-skills">
                 <span class= "interest badge">Photography</span>
                 <span class= "interest badge">Cycling</span>
-                <span class= "interest badge">Scifi & fanstay</span>
+                <span class= "interest badge">Scifi</span>
                 <span class= "interest badge">Archery</span>
               </div>
             </div>
